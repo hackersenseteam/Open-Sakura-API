@@ -1,2 +1,34 @@
-# Sakura_API_Documentation
-Sakura is game cheat for Counter-Strike: Global Offensive and MineCraft, this sakura cheat script api-documentation
+# SakuraAPIDocumentation
+
+## Libraries
+
+--- CSGO ---
+
+- [LuaJIT](https://github.com/LuaJIT/LuaJIT)
+- [FFI](https://luajit.org/ext_ffi.html)
+- [bit](https://bitop.luajit.org/api.html)
+
+--- CSGO ---
+
+-- MineCraft ---
+
+- [JLua](https://github.com/nirhal/JLua)
+- 
+-- MineCraft ---
+
+## Script location
+
+Scripts stored in (documents folder)\Sakura\Scripts (for example: `C:\Users\Administrator\Documents\Sakura\Scripts`)
+
+If you want to create minecraft scripts, to [CLICKME](https://github.com/hackersense/Sakura_API_Documentation/blob/main/MINECRAFT.md)
+
+If you want to create csgo scripts, to [CLICKME](https://github.com/hackersense/Sakura_API_Documentation/blob/main/CSGO.md)
+
+## Find a wrong in api documentation?
+
+contact us:
+
+- [Issues](https://github.com/hackersense/Sakura_API_Documentation/issues)
+- [Pull Requests](https://github.com/hackersense/Sakura_API_Documentation/pulls)
+
+Developer Team:NinjaMaki & Timeline
