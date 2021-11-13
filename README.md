@@ -10,7 +10,7 @@
 
 -- MineCraft ---
 
-- [JLua](https://github.com/nirhal/JLua)
+- [JLua](https://github.com/jasonsantos/luajava)
 
 -- MineCraft ---
 
