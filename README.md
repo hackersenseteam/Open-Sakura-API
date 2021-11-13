@@ -1,4 +1,4 @@
-# SakuraAPIDocumentation
+# Sakura API Documentation
 
 ## Libraries
 
