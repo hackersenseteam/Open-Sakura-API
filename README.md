@@ -5,15 +5,13 @@
 --- CSGO ---
 
 - [LuaJIT](https://github.com/LuaJIT/LuaJIT)
-- [FFI](https://luajit.org/ext_ffi.html)
-- [bit](https://bitop.luajit.org/api.html)
 
 --- CSGO ---
 
 -- MineCraft ---
 
 - [JLua](https://github.com/nirhal/JLua)
-- 
+
 -- MineCraft ---
 
 ## Script location
