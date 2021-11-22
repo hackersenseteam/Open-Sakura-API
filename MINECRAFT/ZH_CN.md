@@ -57,3 +57,8 @@ class Test extends ModuleCore // 添加一个新的Class
         mc.player.sendChatMessage("Hello World!");
     }
 }
+
+## 2. 使用'Script脚本系统'进行开发 ##
+  
+  
+## 3. 使用'Java脚本系统'进行开发 ##
