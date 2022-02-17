@@ -1,6 +1,6 @@
 # Home
 
-Sakura.cc (BrightNess.xyz) API documentation, lua scripting and more.
+Sakura.cc (ChocolaWare.net) API documentation, lua scripting and more.
 
 ## Libraries include
 
