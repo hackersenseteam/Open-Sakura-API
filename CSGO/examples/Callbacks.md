@@ -5,24 +5,28 @@ CreateMove callback
         
     end)
 
+## `PaintTraverse`
 Paint callback
 
     client.add_callback("on_paint", function()
         
     end)
 
+## `Shooting`
 Shot callback
 
     client.add_callback("on_shot", function(shot_info)
         
     end)
 
+## `Resolver`
 Resolver callback
 
     client.add_callback("on_resolver", function(isYaw, beforeAnimYaw_Pitch, eyeYaw_Pitch, maxDesyncDelta, targetName, misses, targetShooting)
         
     end)
 
+## `Event`
 CS:GO Event callback
 
     events.register_event("player_hurt", function(event)
