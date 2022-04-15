@@ -22,7 +22,7 @@ Shot callback
 ## `Resolver`
 Resolver callback
 
-    client.add_callback("on_resolver", function(isYaw, beforeAnimYaw_Pitch, eyeYaw_Pitch, maxDesyncDelta, targetName, misses, targetShooting)
+    client.add_callback("on_resolver", function(resolver_info)
         
     end)
 
