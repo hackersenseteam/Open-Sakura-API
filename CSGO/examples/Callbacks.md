@@ -25,6 +25,13 @@ Paint callback
     cheat.register_callback("on_paint", function()
         
     end)
+    
+## `PaintTraverse`
+Draw callback (image)
+
+    cheat.register_callback("on_draw", function()
+        
+    end)
 
 ## `Shot Success`
 Shot callback
