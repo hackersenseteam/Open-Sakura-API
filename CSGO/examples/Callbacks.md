@@ -1,42 +1,42 @@
 ## `Pre_Prediction`
 Pre_Prediction callback
 
-    client.add_callback("on_preprediction", function(user_cmd)
+    cheat.add_callback("on_preprediction", function(user_cmd)
         
     end)
     
  ## `Prediction`
 Prediction callback
 
-    client.add_callback("on_prediction", function(user_cmd)
+    cheat.add_callback("on_prediction", function(user_cmd)
         
     end)
     
 ## `CreateMove`
 CreateMove callback
 
-    client.add_callback("on_createmove", function(user_cmd)
+    cheat.add_callback("on_createmove", function(user_cmd)
         
     end)
 
 ## `PaintTraverse`
 Paint callback
 
-    client.add_callback("on_paint", function()
+    cheat.add_callback("on_paint", function()
         
     end)
 
-## `Shooting`
+## `Shot Success`
 Shot callback
 
-    client.add_callback("on_shot", function(shot_info)
+    cheat.add_callback("on_shot", function(shot_info)
         
     end)
 
 ## `Resolver`
 Resolver callback
 
-    client.add_callback("on_resolver", function(resolver_info)
+    cheat.add_callback("on_resolver", function(resolver_info)
         
     end)
 
