@@ -1,3 +1,17 @@
+## `Pre_Prediction`
+Pre_Prediction callback
+
+    client.add_callback("on_preprediction", function(user_cmd)
+        
+    end)
+    
+ ## `Prediction`
+Prediction callback
+
+    client.add_callback("on_prediction", function(user_cmd)
+        
+    end)
+    
 ## `CreateMove`
 CreateMove callback
 
