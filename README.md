@@ -2,7 +2,7 @@
 
 ## Script location
 
-Scripts stored in (Your Minecraft Path)\Sakura\Scripts
+Scripts stored in (Your CSGO Path)\Sakura\Scripts
 
 ## Find a wrong in api documentation?
 
