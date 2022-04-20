@@ -26,7 +26,7 @@ Paint callback
         
     end)
     
-## `PaintTraverse`
+## `Draw`
 Draw callback (image)
 
     cheat.register_callback("on_draw", function()
