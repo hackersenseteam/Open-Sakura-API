@@ -1,6 +1,6 @@
 # Home
 
-Sakura.cc (ChocolaWare.net) API documentation, lua scripting and more.
+Sakura.cc (Chocolate.me) API documentation, lua scripting and more.
 
 ## Libraries include
 
