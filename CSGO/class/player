@@ -12,6 +12,8 @@ get_origin
 
 get_angles
 
+get_eye_position
+
 get_hitbox_position
 
 has_helmet
