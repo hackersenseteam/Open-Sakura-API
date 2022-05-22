@@ -1,4 +1,4 @@
-# Home
+# CSGO
 
 Sakura.cc (Chocolate.me) API documentation, lua scripting and more.
 
