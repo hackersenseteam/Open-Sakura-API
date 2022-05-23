@@ -1,4 +1,4 @@
-register_callback
+register_callback(string callback_name, function())
 
 load_script
 
