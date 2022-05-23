@@ -1,5 +1,3 @@
-trigger_bot
-
 legit_bot
 
 double_tap
